@@ -6,7 +6,6 @@
  *Contruir uma função para imprimir um dos produtos, informando o nome, preço e quantidade deste produto.
  */
 package exerciciopoovetores;
-
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
